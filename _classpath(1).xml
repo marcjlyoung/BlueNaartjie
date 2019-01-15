@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Toxic/Downloads/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Toxic/Downloads/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Toxic/Downloads/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
